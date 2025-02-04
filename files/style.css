@@ -1389,6 +1389,13 @@ p {
 }
 
 .the-wedding p{
-  text-decoration: underline !important;
   font-size: 26px;
+}
+
+div.numbers{
+  height: 735px;
+}
+
+p.link{
+  text-decoration: underline !important;
 }
